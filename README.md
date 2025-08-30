@@ -38,13 +38,13 @@
 ###
 
 <p align="left">
-  I'm a developer from Brazil, fascinated by how we can use <strong>TypeScript</strong> and <strong>Python</strong> to build robust and elegant solutions. I'm deeply invested in Object-Oriented Programming (OOP) and exploring how strong typing prepares me for languages like Java.
+  I'm a Brazilian developer passionate about solving problems and building robust solutions. My current focus is on <strong>TypeScript</strong> and <strong>Python</strong>, with a strong foundation in <strong>Object-Oriented Programming (OOP)</strong>. I believe that a deep understanding of core fundamentals is key to adapting to any programming language
   <br><br>
-  - 🔭 I’m currently working on... <em>(e.g., sharpening my skills in microservice architecture, or building a personal project with Go).</em>
-  <br>
-  - 📚 I'm currently learning... <em>(e.g., the trade-offs between concurrency patterns in Rust and Go, and how it connects to the philosophy of distributed systems).</em>
-  <br>
-  - ⚡ In my free time... <em>(e.g., I dive into science fiction, which inspires me to think about the future of technology, or I explore new progressive rock bands, which teaches me about structure and complexity—something I bring back to my code).</em>
+  - 🔭 I'm currently working on my personal portfolio, exploring how to integrate <strong>AI and machine learning models</strong> into my projects to automate complex tasks and create more intelligent systems.</em>
+  <br><br>
+  - 📚 I'm currently deepening my knowledge in microservice architectures and cloud deployment, with a special interest in <strong>Google Cloud Run</strong>..</em>
+  <br><br>
+  - ⚡  In my free time, I enjoy reading and listening to music, and I'm currently learning to play the bass guitar. I'm a big fan of cinema, and movies like <strong>The Matrix</strong> were a major inspiration for me to dive into the world of technology. My favorite bands are <strong>Brockhampton</strong> and <strong>the Red Hot Chili Peppers</strong>
 </p>
 
 ###
@@ -93,13 +93,13 @@
 
 ###
 
-<h4><a href="LINK-TO-YOUR-PROJECT-REPO">📌 Project Name 1</a></h4>
+<h4><a href="https://github.com/armandomonteir-o/script-meta-robots-finder">📌 Meta Robots Finder</a></h4>
 <p>
-  - <strong>Description:</strong> A one or two-sentence summary of what the project does and the problem it solves.
-  <br>
-  - <strong>Tech Stack:</strong> `TypeScript`, `Node.js`, `OOP`, `[Another Framework/Lib]`
-  <br>
-  - <strong>What I Learned:</strong> This was a deep dive into <em>(mention a specific concept, e.g., "applying SOLID principles in a real-world scenario" or "the importance of strict typing to prevent runtime bugs").</em>
+  - <strong>Description:</strong> A command-line tool built to automate the tedious task of verifying the presence of the <code>&lt;meta name="robots"&gt;</code> tag across hundreds of URLs, solving a real-world technical SEO problem. The script processes large lists of URLs, generating professional reports that guarantee compliance and save manual work.
+  <br>
+  - <strong>Tech Stack:</strong> Python, Requests, Beautiful Soup, Pandas, XlsxWriter
+  <br>
+  - <strong>What I Learned:</strong> This project was a deep dive into Object-Oriented Programming (OOP), where I applied an OOP structure to separate concerns into dedicated classes. It also taught me about high-performance concurrency using ThreadPoolExecutor to drastically reduce execution time, and the importance of robust error handling to manage network issues gracefully.
 </p>
 
 ###

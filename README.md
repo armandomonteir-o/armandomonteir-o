@@ -104,16 +104,6 @@
 
 ###
 
-<h4><a href="LINK-TO-YOUR-PROJECT-REPO">📌 Project Name 2</a></h4>
-<p>
-  - <strong>Description:</strong> ...
-  <br>
-  - <strong>Tech Stack:</strong> ...
-  <br>
-  - <strong>What I Learned:</strong> ...
-</p>
-
-###
 
 <h3 align="left"> My Stats :</h3>
 

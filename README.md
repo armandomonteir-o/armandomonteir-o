@@ -102,6 +102,15 @@
   - <strong>What I Learned:</strong> This project was a deep dive into Object-Oriented Programming (OOP), where I applied an OOP structure to separate concerns into dedicated classes. It also taught me about high-performance concurrency using ThreadPoolExecutor to drastically reduce execution time, and the importance of robust error handling to manage network issues gracefully.
 </p>
 
+<h4><a href="https://github.com/armandomonteir-o/nutri-joao">📌 SlimMind Nutrition Website</a></h4>
+<p>
+  - <strong>Description:</strong> A modern, high-performance portfolio website for nutritionist João Paulo, solving the need for a compelling digital presence. This single-page application serves as a dynamic client acquisition tool, featuring service details, dynamic testimonials fetched from a Google Sheet, and direct WhatsApp integration to convert visitors into clients.
+  <br>
+  - <strong>Tech Stack:</strong> Next.js, React, TypeScript, CSS Modules, next-video, Google Sheets API.
+  <br>
+  - <strong>What I Learned:</strong> This project was a deep dive into the Next.js App Router, teaching me modern frontend architecture and the benefits of Server-Side Rendering (SSR) for SEO. I also learned to implement advanced media optimization using <code>next-video</code>, which automates transcoding and adaptive streaming to deliver high-quality video without sacrificing performance. I honed my skills in creating fully responsive UIs with CSS Modules and integrating dynamic content via custom API routes. It was also excellent practice in applying TypeScript in a React environment to build robust, maintainable components.
+</p>
+
 ###
 
 

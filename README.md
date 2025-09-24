@@ -108,7 +108,7 @@
   <br>
   - <strong>Tech Stack:</strong> Next.js, React, TypeScript, CSS Modules, next-video, Google Sheets API.
   <br>
-  - <strong>What I Learned:</strong> This project was a deep dive into the Next.js App Router, teaching me modern frontend architecture and the benefits of Server-Side Rendering (SSR) for SEO. I also learned to implement advanced media optimization using <code>next-video</code>, which automates transcoding and adaptive streaming to deliver high-quality video without sacrificing performance. I honed my skills in creating fully responsive UIs with CSS Modules and integrating dynamic content via custom API routes. It was also excellent practice in applying TypeScript in a React environment to build robust, maintainable components.
+  - <strong>What I Learned:</strong> This project was a deep dive into the Next.js App Router, teaching me how to build a modern frontend architecture using a powerful hybrid rendering strategy. I implemented Static Site Generation (SSG) for the initial page load, ensuring maximum performance and excellent SEO, combined with Client-Side Rendering (CSR) for dynamic content like testimonials. This taught me to balance the trade-offs between a fast, static shell and interactive, real-time data fetched via custom API routes. I also learned to implement advanced media optimization using <code>next-video</code>, which automates transcoding and adaptive streaming, and honed my skills in creating fully responsive UIs with CSS Modules and building robust, maintainable components with TypeScript.
 </p>
 
 ###

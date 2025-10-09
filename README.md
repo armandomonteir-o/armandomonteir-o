@@ -95,7 +95,7 @@
 
 <h4><a href="https://github.com/armandomonteir-o/script-meta-robots-finder">📌 SEO Helper</a></h4>
 <p>
-  - <strong>Description:</strong> A high-performance command-line tool designed to automate technical on-page SEO audits. It functions as an automation platform with a modular architecture, featuring commands to both scan for the existence of meta tags (<code>scan-metas</code>) and compare their content against expected values (<code>compare-metas</code>), streamlining repetitive verification tasks.
+  - <strong>Description:</strong> A high-performance command-line tool designed to automate technical on-page SEO audits. It works as an automation platform with a modular architecture, featuring commands to both scan for the existence of meta tags (<code>scan-metas</code>) and compare their content against expected values (<code>compare-metas</code>), streamlining repetitive verification tasks.
   <br>
   - <strong>Tech Stack:</strong> Python, Questionary, Requests, Beautiful Soup, Pandas, XlsxWriter
   <br>

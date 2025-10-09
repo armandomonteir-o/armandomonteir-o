@@ -93,13 +93,13 @@
 
 ###
 
-<h4><a href="https://github.com/armandomonteir-o/script-meta-robots-finder">📌 Meta Robots Finder</a></h4>
+<h4><a href="https://github.com/armandomonteir-o/script-meta-robots-finder">📌 SEO Helper</a></h4>
 <p>
-  - <strong>Description:</strong> A command-line tool built to automate the tedious task of verifying the presence of the <code>&lt;meta name="robots"&gt;</code> tag across hundreds of URLs, solving a real-world technical SEO problem. The script processes large lists of URLs, generating professional reports that guarantee compliance and save manual work.
+  - <strong>Description:</strong> A high-performance command-line tool designed to automate technical on-page SEO audits. It functions as an automation platform with a modular architecture, featuring commands to both scan for the existence of meta tags (<code>scan-metas</code>) and compare their content against expected values (<code>compare-metas</code>), streamlining repetitive verification tasks.
   <br>
-  - <strong>Tech Stack:</strong> Python, Requests, Beautiful Soup, Pandas, XlsxWriter
+  - <strong>Tech Stack:</strong> Python, Questionary, Requests, Beautiful Soup, Pandas, XlsxWriter
   <br>
-  - <strong>What I Learned:</strong> This project was a deep dive into Object-Oriented Programming (OOP), where I applied an OOP structure to separate concerns into dedicated classes. It also taught me about high-performance concurrency using ThreadPoolExecutor to drastically reduce execution time, and the importance of robust error handling to manage network issues gracefully.
+  - <strong>What I Learned:</strong> This project was a deep dive into advanced software design and architecture. Instead of just a simple OOP structure, I implemented the Command Pattern to build a scalable and decoupled system. This taught me how to encapsulate every feature into its own command object, allowing new functionalities to be added without altering the core application logic. I also learned to abstract common logic, like concurrency, into a reusable engine within a BaseCommand class, applying the DRY (Don't Repeat Yourself) principle to ensure any new command would be performant by default. This project solidified my understanding of creating resilient systems with robust error handling and, finally, taught me the importance of user-centric design by implementing a dual-mode interface (direct vs. interactive) to improve the overall user experience (UX).
 </p>
 
 <h4><a href="https://github.com/armandomonteir-o/nutri-joao">📌 SlimMind Nutrition Website</a></h4>

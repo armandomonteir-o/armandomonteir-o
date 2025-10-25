@@ -38,7 +38,7 @@
 ###
 
 <p align="left">
-  I'm a Brazilian developer passionate about solving problems and building robust solutions. My current focus is on <strong>TypeScript</strong> and <strong>Python</strong>, with a strong foundation in <strong>Object-Oriented Programming (OOP)</strong>. I believe that a deep understanding of core fundamentals is key to adapting to any programming language
+  I'm a Brazilian developer passionate about solving problems and building robust solutions. Currently, I'm honing these skills as a Full Stack Developer Intern at Conversion. My current focus is on <strong>TypeScript</strong> and <strong>Python</strong>, with a strong foundation in <strong>Object-Oriented Programming (OOP)</strong>.. I believe that a deep understanding of core fundamentals is key to adapting to any programming language
   <br><br>
   - 🔭 I'm currently working on my personal portfolio, exploring how to integrate <strong>AI and machine learning models</strong> into my projects to automate complex tasks and create more intelligent systems.</em>
   <br><br>

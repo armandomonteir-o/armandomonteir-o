@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/armando-ar%C3%AAas-monteiro-j%C3%BAnior/" target="_blank">
+  <a href="https://www.linkedin.com/in/armandoamonteiro/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="20" alt="linkedin logo"  />
   </a>
   <a href="mailto:armandojr.ara@gmail.com" target="_blank">

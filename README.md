@@ -19,14 +19,12 @@ Private repositories, so here is what they do and how.
 **LLM agent that explains a client's traffic change.** It gets two Google Search Console tools and decides which to call and with what parameters: when it suspects seasonality, it pulls 16 months of history on its own. Output is schema-validated field by field, and any failed step falls back to a deterministic diagnosis instead of breaking the report.
 → monthly report from **1.5–2 h to ~30 min**
 
-**Figma to page builder generator, in Python.** Reads the design tree through the Figma REST API and emits native page builder components with LLM assistance. The LLM is grounded on a field dictionary extracted from the platform itself, so an invented field fails the build instead of being silently dropped on the client's site weeks later.
-→ **~8 h to ~2 h per page**
+**From Figma to production components.** A Python generator reads the design tree through the Figma REST API and emits native page builder components with LLM assistance. The LLM is grounded on a field dictionary extracted from the platform itself, so an invented field fails the build instead of being silently dropped on the client's site weeks later. The components ship in a WordPress plugin with custom linters for project invariants and a performance budget in every component: LCP image with high priority and no lazy loading, explicit dimensions against CLS, CSS loaded per component.
+→ **~8 h to ~2 h per page** · 60 components · 1,400+ editor controls · **651 production deploys**
 
 **Live site audit API, used at event booths.** Eight independent analyses (robots.txt per crawler, rendering, structured data, Core Web Vitals field vs. lab, SERP position). A failing analysis returns its own status and never takes the report down. It fetches URLs typed by strangers, so SSRF protection has its own test suite gating every release.
 
 **Google Cloud from zero.** Cloud Run, Cloud SQL, Secret Manager, Artifact Registry. Migrations run before the new revision serves traffic, deploys are keyless through Workload Identity Federation, and the build fails if a credential lands in the client bundle.
-
-**WordPress component plugin.** 60 components, 1,400+ editor controls, **651 production deploys**. Custom linters enforce project invariants, and each component carries its performance budget: LCP image with high priority and no lazy loading, explicit dimensions against CLS, CSS loaded per component.
 
 ---
 

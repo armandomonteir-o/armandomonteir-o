@@ -30,7 +30,7 @@ Private repositories, so here is what they do and how.
 
 ### Learning in public: retrieval with evaluation
 
-Hybrid search over my own notes (~900 sections): a lexical baseline plus local embeddings through Ollama, fused with Reciprocal Rank Fusion. It is measured against 29 hand-written questions with known answers.
+Hybrid search over my own notes (over 1,000 sections): a lexical baseline plus local embeddings through Ollama, fused with Reciprocal Rank Fusion. It is measured against 29 hand-written questions with known answers.
 
 | Mode | recall@5 |
 |---|---|
